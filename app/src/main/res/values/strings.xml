@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="arsenallogo">arsenalLogo</string>
+
+    <string name="arsScore">  0 </string>
+    <string name="totScore">  0 </string>
+    <string name="arsButtonPlus"> + </string>
+
+    <string name="arsButtonMinus"> - </string>
+    <string name="totButtonPlus"> + </string>
+
+    <string name="totButtonMinus"> - </string>
+    <string name="firstHalf"> 1st Half </string>
+    <string name="arsenal"> ARSENAL </string>
+    <string name="tottenham"> TOTTENHAM </string>
+    <string name="fouls"> Fouls </string>
+    <string name="foulsButtonPlus"> + </string>
+    <string name="foulsButtonMinus"> - </string>
+    <string name="foulsCounter"> 0 </string>
+    <string name="corners">Corners</string>
+    <string name="cornersButtonPlus"> + </string>
+    <string name="cornersButtonMinus"> - </string>
+    <string name="cornersCounter"> 0 </string>
+    <string name="yellowButtonPlus"> + </string>
+    <string name="yellowButtonMinus"> - </string>
+    <string name="yellowCounter"> 0 </string>
+    <string name="yellowcard">yellowCard</string>
+    <string name="redButtonPlus"> + </string>
+    <string name="redButtonMinus"> - </string>
+    <string name="redCounter"> 0 </string>
+    <string name="redcard">yellowCard</string>
+    <string name="offsides"> Offsides </string>
+    <string name="offsidesButtonPlus"> + </string>
+    <string name="offsidesButtonMinus"> - </string>
+    <string name="offsidesCounter"> 0 </string>
+    <string name="foulsTot"> Fouls </string>
+    <string name="foulsTotButtonPlus"> + </string>
+    <string name="foulsTotButtonMinus"> - </string>
+    <string name="foulsTotCounter"> 0 </string>
+    <string name="cornersTot">Corners</string>
+    <string name="cornersTotButtonPlus"> + </string>
+    <string name="cornersTotButtonMinus"> - </string>
+    <string name="cornersTotCounter"> 0 </string>
+    <string name="yellowTotButtonPlus"> + </string>
+    <string name="yellowTotButtonMinus"> - </string>
+    <string name="yellowTotCounter"> 0 </string>
+    <string name="yellowTotcard">yellowCard</string>
+    <string name="redTotButtonPlus"> + </string>
+    <string name="redTotButtonMinus"> - </string>
+    <string name="redTotCounter"> 0 </string>
+    <string name="redTotcard">yellowCard</string>
+    <string name="offsidesTot"> Offsides </string>
+    <string name="offsidesTotButtonPlus"> + </string>
+    <string name="offsidesTotButtonMinus"> - </string>
+    <string name="offsidesTotCounter"> 0 </string>
+    <string name="emirates"> Emirates </string>
+    <string name="lock"> Location : London (North) </string>
+    <string name="address"> Address : Hornsey Rd, London N7 7AJ, UK </string>
+    <string name="phone"> Phone : +44 20 7619 5003 </string>
+    <string name="ofsite"> Official Site : www.arsenal.com </string>
+
+
+    <string name="res"> RESET </string>
+
+
+</resources>
